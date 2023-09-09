@@ -14,14 +14,14 @@ I'm a passionate Mobile Developer, with a deep love for Flutter. I enjoy buildin
 
 <!-- Skills -->
 ### 🚀 Skills
-- **Languages:** [List of Programming Languages]
-- **Frameworks:** [List of Frameworks]
-- **Tools:** [List of Tools]
+- **Languages:** [Dart, Java, Kotlin, JavaScript]
+- **Frameworks:** [Flutter, React]
+<!-- **Tools:** [List of Tools]
 - **Databases:** [List of Databases]
 - **DevOps:** [List of DevOps Tools]
 
 <!-- Projects -->
-### 🛠️ Projects
+<!--### 🛠️ Projects
 Here are some of my notable projects:
 
 1. **[Project Name](ProjectLink)** - Description of the project.
@@ -34,7 +34,7 @@ Here are some of my notable projects:
    ![Project Image](ProjectImageURL)
 
 <!-- Contribution -->
-### 🤝 Contributions
+<!--### 🤝 Contributions
 I love contributing to open-source projects. Here are some of the repositories I've contributed to:
 
 1. [Repository Name](RepositoryLink) - Contribution description.
@@ -45,9 +45,9 @@ I love contributing to open-source projects. Here are some of the repositories I
 ### 📬 Let's Connect
 Feel free to reach out to me. I'm always open to interesting conversations and collaboration.
 
-- Email: [Your Email Address](mailto:zaymsayd@gmail.com)
-- LinkedIn: [Your LinkedIn Profile]([YourLinkedInURL](https://www.linkedin.com/in/zaymsayd/))
-- Twitter: [Your Twitter Profile](YourTwitterURL)
+- Email: [zaymsayd@gmail.com](mailto:zaymsayd@gmail.com)
+- LinkedIn: [zaymsayd]([YourLinkedInURL](https://www.linkedin.com/in/zaymsayd/))
+- Twitter: [szaeem07](YourTwitterURL)
 
 <!-- Footer -->
 <p align="center">
