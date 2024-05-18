@@ -46,7 +46,7 @@ I love contributing to open-source projects. Here are some of the repositories I
 Feel free to reach out to me. I'm always open to interesting conversations and collaboration.
 
 - Email: [zaymsayd@gmail.com](mailto:zaymsayd@gmail.com)
-- LinkedIn: [zaymsayd](https://www.linkedin.com/in/zaymsayd/))
+- LinkedIn: [zaymsayd](https://www.linkedin.com/in/zaymsayd/)
 - Twitter: [szaeem07](YourTwitterURL)
 
 <!-- Footer -->
