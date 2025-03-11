@@ -11,6 +11,9 @@ Hi, I'm Sayed, a passionate **Flutter Developer** with 6 years of experience in 
 ## My Projects
 
 ### 1. **WashnFold - Online Laundry App**  
+<p align="left">
+  <img src="assets/washnfold-logo.png" alt="WashnFold Logo" width="100">
+</p>
 **Tech Stack:** Flutter, WebSockets, Firebase push notifications, Google Maps  
 **Key Features:**  
 - Laundry booking  
@@ -25,6 +28,9 @@ Hi, I'm Sayed, a passionate **Flutter Developer** with 6 years of experience in 
 ---
 
 ### 2. **dSense**  
+<p align="left">
+  <img src="assets/washnfold-logo.png" alt="WashnFold Logo" width="100">
+</p>
 **Tech Stack:** Flutter, Firebase push notifications, Google Maps, BLoC, Provider, in-house BLE SDK  
 **Key Features:**  
 - BLE-based location tracking  
@@ -38,6 +44,9 @@ Hi, I'm Sayed, a passionate **Flutter Developer** with 6 years of experience in 
 ---
 
 ### 3. **EventPlus**  
+<p align="left">
+  <img src="assets/washnfold-logo.png" alt="WashnFold Logo" width="100">
+</p>
 **Tech Stack:** Flutter, Firebase push notifications, Google Maps, BLoC, Provider, in-house BLE SDK, Agora, WebSocket  
 **Key Features:**  
 - Livestreaming and video calls  
@@ -52,6 +61,9 @@ Hi, I'm Sayed, a passionate **Flutter Developer** with 6 years of experience in 
 ---
 
 ### 4. **Natures Cart**  
+<p align="left">
+  <img src="assets/washnfold-logo.png" alt="WashnFold Logo" width="100">
+</p>
 **Tech Stack:** Flutter, Firebase Auth, Firebase push notifications, GetX, Provider, payment integration  
 **Key Features:**  
 - E-commerce platform for organic products  
@@ -66,6 +78,9 @@ Hi, I'm Sayed, a passionate **Flutter Developer** with 6 years of experience in 
 ---
 
 ### 5. **Jeepers Edition**  
+<p align="left">
+  <img src="assets/washnfold-logo.png" alt="WashnFold Logo" width="100">
+</p>
 **Tech Stack:** Flutter, Firebase Auth, Firebase push notifications, GetX, Provider, payment integration  
 **Key Features:**  
 - E-commerce platform  
@@ -80,6 +95,9 @@ Hi, I'm Sayed, a passionate **Flutter Developer** with 6 years of experience in 
 ---
 
 ### 6. **Watch Market**  
+<p align="left">
+  <img src="assets/watchmarket.webp" alt="WashnFold Logo" width="100">
+</p>
 **Tech Stack:** Flutter, Firebase, Riverpod, Hesabe payment  
 **Key Features:**  
 - Buy and sell watches  
