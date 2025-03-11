@@ -1,4 +1,4 @@
-# Sayed's Flutter Developer Portfolio
+# Sayed Zaeem / Senior Mobile App Developer
 <p align="center">
   <img src="assets/display_pic.jpg" alt="Sayed's Profile" width="150" height="150">
 </p>
