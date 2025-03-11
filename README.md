@@ -1,4 +1,4 @@
-# Flutter Developer Portfolio
+# Sayed Zaeem - Flutter Enthusiast
 
 <p align="left">
   <img width="1000" alt="Profile Image" src="assets/display_pic.jpg" />
