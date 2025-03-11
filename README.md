@@ -1,4 +1,7 @@
 # Sayed's Flutter Developer Portfolio
+<p align="center">
+  <img src="assets/display_pic.png" alt="Sayed's Profile" width="150" height="150">
+</p>
 
 ## About Me  
 Hi, I'm Sayed, a passionate **Flutter Developer** with 6 years of experience in building mobile applications. I specialize in **cross-platform mobile development** and have worked with various technologies and tools including **Dart**, **Firebase**, **BLoC**, **Provider**, **Google Maps**, and more. My expertise spans **UI/UX design**, **app architecture**, and **third-party integrations**.
