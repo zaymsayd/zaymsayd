@@ -1,6 +1,6 @@
 # Sayed's Flutter Developer Portfolio
 <p align="center">
-  <img src="assets/display_pic.png" alt="Sayed's Profile" width="150" height="150">
+  <img src="assets/display_pic.jpg" alt="Sayed's Profile" width="150" height="150">
 </p>
 
 ## About Me  
