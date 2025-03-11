@@ -1,55 +1,107 @@
-<!-- Title -->
-# Hi there, I'm Sayed Zaeem 👋
+# Sayed's Flutter Developer Portfolio
 
-<!-- Introduction -->
-I'm a passionate Mobile Developer, with a deep love for Flutter. I enjoy building Mobile applications and exploring new technologies. Welcome to my GitHub profile! Here, you'll find a collection of my projects and contributions.
+## About Me  
+Hi, I'm Sayed, a passionate **Flutter Developer** with 6 years of experience in building mobile applications. I specialize in **cross-platform mobile development** and have worked with various technologies and tools including **Dart**, **Firebase**, **BLoC**, **Provider**, **Google Maps**, and more. My expertise spans **UI/UX design**, **app architecture**, and **third-party integrations**.
 
-<!-- Stats -->
-![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=YourUsername](https://github.com/zaymsayd/)&show_icons=true&theme=dracula)
+---
 
-<!-- Social Media -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=[YourLinkedInURL](https://www.linkedin.com/in/zaymsayd/))]([YourLinkedInURL](https://www.linkedin.com/in/zaymsayd/))
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=YourTwitterURL)](YourTwitterURL)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-5849BE?style=flat-square&link=YourPortfolioURL)](YourPortfolioURL)
+## My Projects
 
-<!-- Skills -->
-### 🚀 Skills
-- **Languages:** [Dart, Java, Kotlin, JavaScript]
-- **Frameworks:** [Flutter, React]
-<!-- **Tools:** [List of Tools]
-- **Databases:** [List of Databases]
-- **DevOps:** [List of DevOps Tools]
+### 1. **WashnFold - Online Laundry App**  
+**Tech Stack:** Flutter, WebSockets, Firebase push notifications, Google Maps  
+**Key Features:**  
+- Laundry booking  
+- Real-time order tracking  
+- Notifications  
+- Map integration for real-time updates  
 
-<!-- Projects -->
-<!--### 🛠️ Projects
-Here are some of my notable projects:
+**Links:**  
+- [Android](https://play.google.com/store/apps/details?id=com.rbnsoft.washnfold)  
+- [iOS](#https://apps.apple.com/qa/app/washnfold-online-laundry/id1548683957)
 
-1. **[Project Name](ProjectLink)** - Description of the project.
-   ![Project Image](ProjectImageURL)
+---
 
-2. **[Project Name](ProjectLink)** - Description of the project.
-   ![Project Image](ProjectImageURL)
+### 2. **dSense**  
+**Tech Stack:** Flutter, Firebase push notifications, Google Maps, BLoC, Provider, in-house BLE SDK  
+**Key Features:**  
+- BLE-based location tracking  
+- Push notifications  
+- Map integration  
 
-3. **[Project Name](ProjectLink)** - Description of the project.
-   ![Project Image](ProjectImageURL)
+**Links:**  
+- [Android](https://play.google.com/store/apps/details?id=com.pinmicro.dsense&hl=en)  
+- [iOS](https://apps.apple.com/us/app/dsense/id1663214822)
 
-<!-- Contribution -->
-<!--### 🤝 Contributions
-I love contributing to open-source projects. Here are some of the repositories I've contributed to:
+---
 
-1. [Repository Name](RepositoryLink) - Contribution description.
-2. [Repository Name](RepositoryLink) - Contribution description.
-3. [Repository Name](RepositoryLink) - Contribution description.
+### 3. **EventPlus**  
+**Tech Stack:** Flutter, Firebase push notifications, Google Maps, BLoC, Provider, in-house BLE SDK, Agora, WebSocket  
+**Key Features:**  
+- Livestreaming and video calls  
+- End-to-end encrypted chat  
+- Live chat functionality  
+- Real-time notifications  
 
-<!-- Contact -->
-### 📬 Let's Connect
-Feel free to reach out to me. I'm always open to interesting conversations and collaboration.
+**Links:**  
+- [Android](https://play.google.com/store/apps/details?id=com.pinmicro.eventplusapp&hl=en)  
+- [iOS](https://apps.apple.com/ae/app/eventplus/id1629432479)
 
-- Email: [zaymsayd@gmail.com](mailto:zaymsayd@gmail.com)
-- LinkedIn: [zaymsayd](https://www.linkedin.com/in/zaymsayd/)
-- Twitter: [szaeem07](YourTwitterURL)
+---
 
-<!-- Footer -->
-<p align="center">
-  Made with ❤️ by Sayed Zaeem
-</p>
+### 4. **Natures Cart**  
+**Tech Stack:** Flutter, Firebase Auth, Firebase push notifications, GetX, Provider, payment integration  
+**Key Features:**  
+- E-commerce platform for organic products  
+- User authentication  
+- Payment gateway integration  
+- Push notifications  
+
+**Links:**  
+- [Android](https://play.google.com/store/apps/details?id=com.ae.naturescart&hl=en)  
+- [iOS](https://apps.apple.com/ae/app/natures-cart/id1549923265)
+
+---
+
+### 5. **Jeepers Edition**  
+**Tech Stack:** Flutter, Firebase Auth, Firebase push notifications, GetX, Provider, payment integration  
+**Key Features:**  
+- E-commerce platform  
+- User authentication  
+- Real-time notifications  
+- Payment system integration  
+
+**Links:**  
+- [Android](https://play.google.com/store/apps/details?id=ae.jeepers.app&hl=en)  
+- [iOS](https://apps.apple.com/ae/app/jeepers-edition/id6502684633)
+
+---
+
+### 6. **Watch Market**  
+**Tech Stack:** Flutter, Firebase, Riverpod, Hesabe payment  
+**Key Features:**  
+- Buy and sell watches  
+- Bidding functionality  
+- Real-time product updates  
+
+**Links:**  
+- [Android](https://play.google.com/store/apps/details?id=com.watchmarket.app&hl=en)  
+- [iOS](https://apps.apple.com/ae/app/watch-market-by-time-keeper/id6733242722)
+
+---
+
+## Skills & Tools  
+- **Languages:** Dart, JavaScript  
+- **Frameworks:** Flutter, React Native  
+- **Tools & Services:** Firebase, Google Cloud, AWS, Git, Jira, VS Code  
+- **Libraries & Packages:** BLoC, Provider, Riverpod, GetX, WebSockets, Agora
+
+---
+
+## Get In Touch  
+Feel free to reach out to me for **collaboration**, **freelance work**, or just to discuss Flutter development.  
+- **Email:** [zaymsayd@gmail.com](mailto:zaymsayd@gmail.com)  
+- **LinkedIn:** [Sayed LinkedIn](#)  
+- **GitHub:** [@zaymsayd](https://github.com/zaymsayd)
+
+---
+
