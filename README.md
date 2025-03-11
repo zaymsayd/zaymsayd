@@ -25,7 +25,7 @@ Feel free to explore my projects below and connect if you're interested in colla
 WashnFold is an online laundry service app, enabling users to schedule pickups and track orders seamlessly.
 
 ### Tech Stack:
-- Flutter 🦋
+- Flutter 🥋
 - Dart 💻
 - WebSockets ⚡
 - Firebase 🔥
@@ -45,7 +45,7 @@ WashnFold is an online laundry service app, enabling users to schedule pickups a
 DSense is an advanced location-based app leveraging **BLE technology** for precise indoor positioning.
 
 ### Tech Stack:
-- Flutter 🦋
+- Flutter 🥋
 - Firebase 🔥
 - Google Maps 📍
 - WebSocket ⚡
@@ -65,7 +65,7 @@ DSense is an advanced location-based app leveraging **BLE technology** for preci
 EventPlus is an all-in-one event management app offering **livestreaming, video calls, and real-time chat**.
 
 ### Tech Stack:
-- Flutter 🦋
+- Flutter 🥋
 - Firebase 🔥
 - Google Maps 📍
 - WebSocket ⚡
@@ -74,6 +74,44 @@ EventPlus is an all-in-one event management app offering **livestreaming, video 
 - BLE SDK for Location Services 🏷️
 
 [**Download on Google Play**](https://play.google.com/store/apps/details?id=com.pinmicro.eventplusapp&hl=en) | [**Download on App Store**](https://apps.apple.com/ae/app/eventplus/id1629432479)
+
+---
+
+## Natures Cart - E-Commerce App (📱 Android & iOS)
+
+<p align="left">
+  <img width="1000" alt="Natures Cart" src="assets/naturescart.webp" />
+</p>
+
+Natures Cart is an e-commerce platform for organic products with secure authentication and payment integration.
+
+### Tech Stack:
+- Flutter 🥋
+- Firebase Auth 🔑
+- Firebase Push Notifications 📲
+- GetX & Provider 🔄
+- Payment Gateway Integration 💳
+
+[**Download on Google Play**](https://play.google.com/store/apps/details?id=com.ae.naturescart&hl=en) | [**Download on App Store**](https://apps.apple.com/ae/app/natures-cart/id1549923265)
+
+---
+
+## Jeepers Edition - E-Commerce App (📱 Android & iOS)
+
+<p align="left">
+  <img width="1000" alt="Jeepers Edition" src="assets/jeepers.webp" />
+</p>
+
+Jeepers Edition is an e-commerce platform for automobile accessories, featuring authentication and real-time notifications.
+
+### Tech Stack:
+- Flutter 🥋
+- Firebase Auth 🔑
+- Firebase Push Notifications 📲
+- GetX & Provider 🔄
+- Payment Gateway Integration 💳
+
+[**Download on Google Play**](https://play.google.com/store/apps/details?id=ae.jeepers.app&hl=en) | [**Download on App Store**](https://apps.apple.com/ae/app/jeepers-edition/id6502684633)
 
 ---
 
@@ -86,7 +124,7 @@ EventPlus is an all-in-one event management app offering **livestreaming, video 
 Watch Market is a dedicated platform for buying, selling, and bidding on high-end watches.
 
 ### Tech Stack:
-- Flutter 🦋
+- Flutter 🥋
 - Firebase 🔥
 - Riverpod 🚀
 - Hesabe Payment 💳
@@ -100,7 +138,7 @@ Watch Market is a dedicated platform for buying, selling, and bidding on high-en
 I'm always open to discussing new opportunities and collaborations. Feel free to reach out:
 
 📧 **Email:** [zaymsayd@gmail.com](mailto:zaymsayd@gmail.com)  
-💼 **LinkedIn:** [Sayed LinkedIn](https://www.linkedin.com/in/zaymsayd/)  
+🌟 **LinkedIn:** [Sayed LinkedIn](https://www.linkedin.com/in/zaymsayd/)  
 🐙 **GitHub:** [@zaymsayd](https://github.com/zaymsayd)  
 
 ---
