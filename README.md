@@ -1,128 +1,108 @@
-# Sayed Zaeem / Senior Mobile App Developer
-<p align="center">
-  <img src="assets/display_pic.jpg" alt="Sayed's Profile" width="150" height="150">
-</p>
+# Flutter Developer Portfolio
 
-## About Me  
-Hi, I'm Sayed, a passionate **Flutter Developer** with 6 years of experience in building mobile applications. I specialize in **cross-platform mobile development** and have worked with various technologies and tools including **Dart**, **Firebase**, **BLoC**, **Provider**, **Google Maps**, and more. My expertise spans **UI/UX design**, **app architecture**, and **third-party integrations**.
-
----
-
-## My Projects
-
-### 1. **WashnFold - Online Laundry App**  
 <p align="left">
-  <img src="assets/wash_n_fold.png" alt="WashnFold Logo" width="100">
+  <img width="1000" alt="Profile Image" src="assets/display_pic.jpg" />
 </p>
-**Tech Stack:** Flutter, WebSockets, Firebase push notifications, Google Maps  
-**Key Features:**  
-- Laundry booking  
-- Real-time order tracking  
-- Notifications  
-- Map integration for real-time updates  
 
-**Links:**  
-- [Android](https://play.google.com/store/apps/details?id=com.rbnsoft.washnfold)  
-- [iOS](#https://apps.apple.com/qa/app/washnfold-online-laundry/id1548683957)
+## About Me
+
+Hello and welcome! 👋 I'm **Sayed**, a passionate Flutter developer with **6 years of experience** in developing and maintaining mobile applications. I have expertise in **Dart**, **Flutter**, and state management libraries like **Provider, BLoC, and GetX**. My experience spans **e-commerce**, **event apps**, **BLE-based location apps**, **educational platforms**, and **laundry services**.
+
+I've successfully led a team of **3 mobile developers** and integrated **AWS and Google Cloud services** in various projects. I also have experience with **WebSockets, Firebase, Google Maps, and payment gateways**. I'm currently looking for exciting opportunities where I can contribute and grow.
+
+Feel free to explore my projects below and connect if you're interested in collaborating! 🚀
 
 ---
 
-### 2. **dSense**  
+# Featured Projects
+
+## WashnFold - Online Laundry App (📱 Android & iOS)
+
 <p align="left">
-  <img src="assets/dSense.webp" alt="dSense Logo" width="100">
+  <img width="1000" alt="WashnFold" src="assets/wash_n_fold.png" />
 </p>
-**Tech Stack:** Flutter, Firebase push notifications, Google Maps, BLoC, Provider, in-house BLE SDK  
-**Key Features:**  
-- BLE-based location tracking  
-- Push notifications  
-- Map integration  
 
-**Links:**  
-- [Android](https://play.google.com/store/apps/details?id=com.pinmicro.dsense&hl=en)  
-- [iOS](https://apps.apple.com/us/app/dsense/id1663214822)
+WashnFold is an online laundry service app, enabling users to schedule pickups and track orders seamlessly.
+
+### Tech Stack:
+- Flutter 🦋
+- Dart 💻
+- WebSockets ⚡
+- Firebase 🔥
+- Google Maps 📍
+- Push Notifications 📲
+
+[**Download on Google Play**](https://play.google.com/store/apps/details?id=com.rbnsoft.washnfold) | [**Download on App Store**](https://apps.apple.com/qa/app/washnfold-online-laundry/id1548683957)
 
 ---
 
-### 3. **EventPlus**  
+## DSense - BLE-based Location App (📱 Android & iOS)
+
 <p align="left">
-  <img src="assets/eventplus.webp" alt="EventPlus Logo" width="100">
+  <img width="1000" alt="DSense" src="assets/dSense.webp" />
 </p>
-**Tech Stack:** Flutter, Firebase push notifications, Google Maps, BLoC, Provider, in-house BLE SDK, Agora, WebSocket  
-**Key Features:**  
-- Livestreaming and video calls  
-- End-to-end encrypted chat  
-- Live chat functionality  
-- Real-time notifications  
 
-**Links:**  
-- [Android](https://play.google.com/store/apps/details?id=com.pinmicro.eventplusapp&hl=en)  
-- [iOS](https://apps.apple.com/ae/app/eventplus/id1629432479)
+DSense is an advanced location-based app leveraging **BLE technology** for precise indoor positioning.
+
+### Tech Stack:
+- Flutter 🦋
+- Firebase 🔥
+- Google Maps 📍
+- WebSocket ⚡
+- BLoC & Provider 🔄
+- In-house BLE SDK 🏷️
+
+[**Download on Google Play**](https://play.google.com/store/apps/details?id=com.pinmicro.dsense&hl=en) | [**Download on App Store**](https://apps.apple.com/us/app/dsense/id1663214822)
 
 ---
 
-### 4. **Natures Cart**  
+## EventPlus - Event Management App (📱 Android & iOS)
+
 <p align="left">
-  <img src="assets/naturescart.webp" alt="Naturescart Logo" width="100">
+  <img width="1000" alt="EventPlus" src="assets/eventplus.webp" />
 </p>
-**Tech Stack:** Flutter, Firebase Auth, Firebase push notifications, GetX, Provider, payment integration  
-**Key Features:**  
-- E-commerce platform for organic products  
-- User authentication  
-- Payment gateway integration  
-- Push notifications  
 
-**Links:**  
-- [Android](https://play.google.com/store/apps/details?id=com.ae.naturescart&hl=en)  
-- [iOS](https://apps.apple.com/ae/app/natures-cart/id1549923265)
+EventPlus is an all-in-one event management app offering **livestreaming, video calls, and real-time chat**.
+
+### Tech Stack:
+- Flutter 🦋
+- Firebase 🔥
+- Google Maps 📍
+- WebSocket ⚡
+- BLoC & Provider 🔄
+- Agora 🎥 (Video & Live Streaming)
+- BLE SDK for Location Services 🏷️
+
+[**Download on Google Play**](https://play.google.com/store/apps/details?id=com.pinmicro.eventplusapp&hl=en) | [**Download on App Store**](https://apps.apple.com/ae/app/eventplus/id1629432479)
 
 ---
 
-### 5. **Jeepers Edition**  
+## Watch Market - Online Watch Buying & Bidding Platform (📱 Android & iOS)
+
 <p align="left">
-  <img src="assets/jeepers.webp" alt="Jeepers Logo" width="100">
+  <img width="1000" alt="Watch Market" src="assets/watchmarket.webp" />
 </p>
-**Tech Stack:** Flutter, Firebase Auth, Firebase push notifications, GetX, Provider, payment integration  
-**Key Features:**  
-- E-commerce platform  
-- User authentication  
-- Real-time notifications  
-- Payment system integration  
 
-**Links:**  
-- [Android](https://play.google.com/store/apps/details?id=ae.jeepers.app&hl=en)  
-- [iOS](https://apps.apple.com/ae/app/jeepers-edition/id6502684633)
+Watch Market is a dedicated platform for buying, selling, and bidding on high-end watches.
 
----
+### Tech Stack:
+- Flutter 🦋
+- Firebase 🔥
+- Riverpod 🚀
+- Hesabe Payment 💳
 
-### 6. **Watch Market**  
-<p align="left">
-  <img src="assets/watchmarket.webp" alt="WatchMarket Logo" width="100">
-</p>
-**Tech Stack:** Flutter, Firebase, Riverpod, Hesabe payment  
-**Key Features:**  
-- Buy and sell watches  
-- Bidding functionality  
-- Real-time product updates  
-
-**Links:**  
-- [Android](https://play.google.com/store/apps/details?id=com.watchmarket.app&hl=en)  
-- [iOS](https://apps.apple.com/ae/app/watch-market-by-time-keeper/id6733242722)
+[**Download on Google Play**](https://play.google.com/store/apps/details?id=com.watchmarket.app&hl=en) | [**Download on App Store**](https://apps.apple.com/ae/app/watch-market-by-time-keeper/id6733242722)
 
 ---
 
-## Skills & Tools  
-- **Languages:** Dart, JavaScript  
-- **Frameworks:** Flutter, React Native  
-- **Tools & Services:** Firebase, Google Cloud, AWS, Git, Jira, VS Code  
-- **Libraries & Packages:** BLoC, Provider, Riverpod, GetX, WebSockets, Agora
+### 🚀 Let's Connect!
+
+I'm always open to discussing new opportunities and collaborations. Feel free to reach out:
+
+📧 **Email:** [zaymsayd@gmail.com](mailto:zaymsayd@gmail.com)  
+💼 **LinkedIn:** [Sayed LinkedIn](https://www.linkedin.com/in/zaymsayd/)  
+🐙 **GitHub:** [@zaymsayd](https://github.com/zaymsayd)  
 
 ---
 
-## Get In Touch  
-Feel free to reach out to me for **collaboration**, **freelance work**, or just to discuss Flutter development.  
-- **Email:** [zaymsayd@gmail.com](mailto:zaymsayd@gmail.com)  
-- **LinkedIn:** [Sayed LinkedIn](#)  
-- **GitHub:** [@zaymsayd](https://github.com/zaymsayd)
-
----
-
+Thank you for visiting my portfolio! ✨
