@@ -12,7 +12,7 @@ Hi, I'm Sayed, a passionate **Flutter Developer** with 6 years of experience in 
 
 ### 1. **WashnFold - Online Laundry App**  
 <p align="left">
-  <img src="assets/washnfold-logo.png" alt="WashnFold Logo" width="100">
+  <img src="assets/washnfold.png" alt="WashnFold Logo" width="100">
 </p>
 **Tech Stack:** Flutter, WebSockets, Firebase push notifications, Google Maps  
 **Key Features:**  
@@ -29,7 +29,7 @@ Hi, I'm Sayed, a passionate **Flutter Developer** with 6 years of experience in 
 
 ### 2. **dSense**  
 <p align="left">
-  <img src="assets/washnfold-logo.png" alt="WashnFold Logo" width="100">
+  <img src="assets/dsense.webp" alt="dSense Logo" width="100">
 </p>
 **Tech Stack:** Flutter, Firebase push notifications, Google Maps, BLoC, Provider, in-house BLE SDK  
 **Key Features:**  
@@ -45,7 +45,7 @@ Hi, I'm Sayed, a passionate **Flutter Developer** with 6 years of experience in 
 
 ### 3. **EventPlus**  
 <p align="left">
-  <img src="assets/washnfold-logo.png" alt="WashnFold Logo" width="100">
+  <img src="assets/eventplus.webp" alt="EventPlus Logo" width="100">
 </p>
 **Tech Stack:** Flutter, Firebase push notifications, Google Maps, BLoC, Provider, in-house BLE SDK, Agora, WebSocket  
 **Key Features:**  
@@ -62,7 +62,7 @@ Hi, I'm Sayed, a passionate **Flutter Developer** with 6 years of experience in 
 
 ### 4. **Natures Cart**  
 <p align="left">
-  <img src="assets/washnfold-logo.png" alt="WashnFold Logo" width="100">
+  <img src="assets/naturescart.webp" alt="Naturescart Logo" width="100">
 </p>
 **Tech Stack:** Flutter, Firebase Auth, Firebase push notifications, GetX, Provider, payment integration  
 **Key Features:**  
@@ -79,7 +79,7 @@ Hi, I'm Sayed, a passionate **Flutter Developer** with 6 years of experience in 
 
 ### 5. **Jeepers Edition**  
 <p align="left">
-  <img src="assets/washnfold-logo.png" alt="WashnFold Logo" width="100">
+  <img src="assets/jeepers.webp" alt="Jeepers Logo" width="100">
 </p>
 **Tech Stack:** Flutter, Firebase Auth, Firebase push notifications, GetX, Provider, payment integration  
 **Key Features:**  
@@ -96,7 +96,7 @@ Hi, I'm Sayed, a passionate **Flutter Developer** with 6 years of experience in 
 
 ### 6. **Watch Market**  
 <p align="left">
-  <img src="assets/watchmarket.webp" alt="WashnFold Logo" width="100">
+  <img src="assets/watchmarket.webp" alt="WatchMarket Logo" width="100">
 </p>
 **Tech Stack:** Flutter, Firebase, Riverpod, Hesabe payment  
 **Key Features:**  
